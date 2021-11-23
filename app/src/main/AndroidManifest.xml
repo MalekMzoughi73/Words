@@ -11,10 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Words"
         tools:ignore="AllowBackup">
-        <activity
-            android:name="com.malek.words.DetailActivity"
-            android:exported="false"
-            android:parentActivityName="com.malek.words.MainActivity" />
+
         <activity
             android:name="com.malek.words.MainActivity"
             android:exported="true">
